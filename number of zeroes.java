@@ -1,4 +1,4 @@
-     ...  // Write a program that calculates the number of zeros from the back to the first non-zero number in N!
+   //  ...  // Write a program that calculates the number of zeros from the back to the first non-zero number in N!
 
 import java.util.Scanner;
 public class Main {
